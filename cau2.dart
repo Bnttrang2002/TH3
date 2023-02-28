@@ -6,11 +6,10 @@ void sochan(int a, int b){
     }
   }
 }
-
 void main(){
-  stdout.write('Moi ban nhap a: ');
+  stdout.write('Mời bạn nhập a: ');
   int a = int.parse(stdin.readLineSync()!);
-  stdout.write('Moi ban nhap b: ');
+  stdout.write('Mời bạn nhập b: ');
   int b = int.parse(stdin.readLineSync()!);
   sochan(a,b);
 }
