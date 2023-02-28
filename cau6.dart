@@ -4,6 +4,6 @@ String reverseStringUsingSplit(String input) {
 }
 
 void main() {
-  var chuoi = 'bui trang';
+  var chuoi = 'Bui Trang';
   print(reverseStringUsingSplit(chuoi));
 }
