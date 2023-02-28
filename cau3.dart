@@ -1,5 +1,4 @@
 import 'dart:math';
-
 void main(){
   String randPass='';
   String letters = 'abcdefghijklmnoprstuxyz';
@@ -14,4 +13,4 @@ void main(){
   }
   print(randPass);
 
-}
+} 
